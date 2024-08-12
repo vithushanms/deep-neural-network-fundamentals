@@ -38,3 +38,17 @@ pip install poetry
 ```bash
 poetry install
 ```
+
+6. If you don't have graphiz installed, install it using the below command
+
+on mac
+
+```bash
+brew install graphviz
+```
+
+on ubuntu
+
+```bash
+sudo apt-get install graphviz
+```
