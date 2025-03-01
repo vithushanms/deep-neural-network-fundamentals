@@ -1,6 +1,6 @@
 # deep-neural-network-fundementals
 
-A repository of notebooks which has the collection of notebooks that explains fundamentals of deep-neural-networks.
+A repository of notebooks which has the collection of notebooks that explains fundamentals of deep-neural-networks along with many useful notes and code examples.
 
 # Env setup
 
@@ -52,3 +52,7 @@ on ubuntu
 ```bash
 sudo apt-get install graphviz
 ```
+
+# Repo structure
+
+- 01. `back propagation fundamentals`: A collection of notebooks that explains the fundamentals of back propagation.
