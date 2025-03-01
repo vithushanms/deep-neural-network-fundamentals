@@ -53,6 +53,6 @@ on ubuntu
 sudo apt-get install graphviz
 ```
 
-# Repo structure
+# Materials
 
-- 01. `back propagation fundamentals`: A collection of notebooks that explains the fundamentals of back propagation.
+- 01. `back-propagation-fundamentals`: A collection of notebooks that explains the fundamentals of back propagation.
